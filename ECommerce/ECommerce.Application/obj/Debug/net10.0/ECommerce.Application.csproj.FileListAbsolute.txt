@@ -1,0 +1,13 @@
+C:\Tomas\Projects\e-commerce-integration\ECommerce\ECommerce.Application\bin\Debug\net10.0\ECommerce.Application.deps.json
+C:\Tomas\Projects\e-commerce-integration\ECommerce\ECommerce.Application\bin\Debug\net10.0\ECommerce.Application.dll
+C:\Tomas\Projects\e-commerce-integration\ECommerce\ECommerce.Application\bin\Debug\net10.0\ECommerce.Application.pdb
+C:\Tomas\Projects\e-commerce-integration\ECommerce\ECommerce.Application\obj\Debug\net10.0\ECommerce.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tomas\Projects\e-commerce-integration\ECommerce\ECommerce.Application\obj\Debug\net10.0\ECommerce.Application.AssemblyInfoInputs.cache
+C:\Tomas\Projects\e-commerce-integration\ECommerce\ECommerce.Application\obj\Debug\net10.0\ECommerce.Application.AssemblyInfo.cs
+C:\Tomas\Projects\e-commerce-integration\ECommerce\ECommerce.Application\obj\Debug\net10.0\ECommerce.Application.csproj.CoreCompileInputs.cache
+C:\Tomas\Projects\e-commerce-integration\ECommerce\ECommerce.Application\obj\Debug\net10.0\ECommerce.Application.sourcelink.json
+C:\Tomas\Projects\e-commerce-integration\ECommerce\ECommerce.Application\obj\Debug\net10.0\ECommerce.Application.dll
+C:\Tomas\Projects\e-commerce-integration\ECommerce\ECommerce.Application\obj\Debug\net10.0\refint\ECommerce.Application.dll
+C:\Tomas\Projects\e-commerce-integration\ECommerce\ECommerce.Application\obj\Debug\net10.0\ECommerce.Application.pdb
+C:\Tomas\Projects\e-commerce-integration\ECommerce\ECommerce.Application\obj\Debug\net10.0\ref\ECommerce.Application.dll
+C:\Tomas\Projects\e-commerce-integration\ECommerce\ECommerce.Application\obj\Debug\net10.0\ECommerce.Application.csproj.AssemblyReference.cache

@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "7o+QwJ/zVDM=",
+  "success": true,
+  "projectFilePath": "C:\\Tomas\\Projects\\e-commerce-integration\\ECommerce\\ECommerce.API\\ECommerce.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nitsc\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\Nitsc\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\Nitsc\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.1.0\\mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
+    "C:\\Users\\Nitsc\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.7\\microsoft.aspnetcore.openapi.10.0.7.nupkg.sha512",
+    "C:\\Users\\Nitsc\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.14\\microsoft.entityframeworkcore.8.0.14.nupkg.sha512",
+    "C:\\Users\\Nitsc\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.14\\microsoft.entityframeworkcore.abstractions.8.0.14.nupkg.sha512",
+    "C:\\Users\\Nitsc\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\8.0.14\\microsoft.entityframeworkcore.analyzers.8.0.14.nupkg.sha512",
+    "C:\\Users\\Nitsc\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\8.0.14\\microsoft.entityframeworkcore.inmemory.8.0.14.nupkg.sha512",
+    "C:\\Users\\Nitsc\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
