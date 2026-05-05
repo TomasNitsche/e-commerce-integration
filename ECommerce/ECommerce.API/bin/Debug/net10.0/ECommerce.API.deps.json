@@ -1,0 +1,212 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ECommerce.API/1.0.0": {
+        "dependencies": {
+          "ECommerce.Application": "1.0.0",
+          "ECommerce.Infrastructure": "1.0.0",
+          "Microsoft.AspNetCore.OpenApi": "10.0.7"
+        },
+        "runtime": {
+          "ECommerce.API.dll": {}
+        }
+      },
+      "MediatR/11.1.0": {
+        "dependencies": {
+          "MediatR.Contracts": "1.0.1"
+        },
+        "runtime": {
+          "lib/netstandard2.1/MediatR.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.1.0.0"
+          }
+        }
+      },
+      "MediatR.Contracts/1.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/MediatR.Contracts.dll": {
+            "assemblyVersion": "1.0.1.0",
+            "fileVersion": "1.0.1.0"
+          }
+        }
+      },
+      "MediatR.Extensions.Microsoft.DependencyInjection/11.1.0": {
+        "dependencies": {
+          "MediatR": "11.1.0"
+        },
+        "runtime": {
+          "lib/netstandard2.1/MediatR.Extensions.Microsoft.DependencyInjection.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.1.0.0"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.OpenApi/10.0.7": {
+        "dependencies": {
+          "Microsoft.OpenApi": "2.0.0"
+        },
+        "runtime": {
+          "lib/net10.0/Microsoft.AspNetCore.OpenApi.dll": {
+            "assemblyVersion": "10.0.7.0",
+            "fileVersion": "10.0.726.21808"
+          }
+        }
+      },
+      "Microsoft.EntityFrameworkCore/8.0.14": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.Abstractions": "8.0.14"
+        },
+        "runtime": {
+          "lib/net8.0/Microsoft.EntityFrameworkCore.dll": {
+            "assemblyVersion": "8.0.14.0",
+            "fileVersion": "8.0.1425.11206"
+          }
+        }
+      },
+      "Microsoft.EntityFrameworkCore.Abstractions/8.0.14": {
+        "runtime": {
+          "lib/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll": {
+            "assemblyVersion": "8.0.14.0",
+            "fileVersion": "8.0.1425.11206"
+          }
+        }
+      },
+      "Microsoft.EntityFrameworkCore.InMemory/8.0.14": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "8.0.14"
+        },
+        "runtime": {
+          "lib/net8.0/Microsoft.EntityFrameworkCore.InMemory.dll": {
+            "assemblyVersion": "8.0.14.0",
+            "fileVersion": "8.0.1425.11206"
+          }
+        }
+      },
+      "Microsoft.OpenApi/2.0.0": {
+        "runtime": {
+          "lib/net8.0/Microsoft.OpenApi.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
+        }
+      },
+      "ECommerce.Application/1.0.0": {
+        "dependencies": {
+          "MediatR": "11.1.0",
+          "MediatR.Extensions.Microsoft.DependencyInjection": "11.1.0"
+        },
+        "runtime": {
+          "ECommerce.Application.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "ECommerce.Domain/1.0.0": {
+        "runtime": {
+          "ECommerce.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "ECommerce.Infrastructure/1.0.0": {
+        "dependencies": {
+          "ECommerce.Domain": "1.0.0",
+          "MediatR": "11.1.0",
+          "Microsoft.EntityFrameworkCore": "8.0.14",
+          "Microsoft.EntityFrameworkCore.InMemory": "8.0.14"
+        },
+        "runtime": {
+          "ECommerce.Infrastructure.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ECommerce.API/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MediatR/11.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-YIbtrLOyeCuIv8vIuHL/mMdls5xmgS36pIOJDxKZuu55nxA2MI2Z+E/Uk0z+F/LE11AGmpjplOM0NZ91m5LQBA==",
+      "path": "mediatr/11.1.0",
+      "hashPath": "mediatr.11.1.0.nupkg.sha512"
+    },
+    "MediatR.Contracts/1.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-NsRvOxthhkYml4DcBMyJsmym8C4MchioH7wxKVPEg7plFj9Euh/i4IcmZ3Gvgx6+K8obeuhPeJdoBl56wnuo3A==",
+      "path": "mediatr.contracts/1.0.1",
+      "hashPath": "mediatr.contracts.1.0.1.nupkg.sha512"
+    },
+    "MediatR.Extensions.Microsoft.DependencyInjection/11.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-RW3etRuy6Xp63cgqfC0r/ITOtUT0f9ymJl1+1XZdzsYUsfv7WBPC2kXGOP8IYpY/6c4Q6805vbIW/88DopUs3w==",
+      "path": "mediatr.extensions.microsoft.dependencyinjection/11.1.0",
+      "hashPath": "mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.OpenApi/10.0.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vKiAcGXG0BwNVw3bOjjWRLnp9tR18dR7MiwpvC94h0yFS+zfnzGHzS/JmmgwUdRixrGxrlIMRAWrVc+2DfAGlg==",
+      "path": "microsoft.aspnetcore.openapi/10.0.7",
+      "hashPath": "microsoft.aspnetcore.openapi.10.0.7.nupkg.sha512"
+    },
+    "Microsoft.EntityFrameworkCore/8.0.14": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HNn+NPKCm7rR7ij7IRCCbuImaMulFJGloyIbMwi3Ews77RsthM8gxpTZciFLgRYPsBtszKpdIClEwnWmP0vjUg==",
+      "path": "microsoft.entityframeworkcore/8.0.14",
+      "hashPath": "microsoft.entityframeworkcore.8.0.14.nupkg.sha512"
+    },
+    "Microsoft.EntityFrameworkCore.Abstractions/8.0.14": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Om8/jdWyx9eKFkA1YEgxk13KjGIzA8teLgG7iNFunsI2+MT6UT54Eb4t6oe4NQlIaACj5voUe6szVAQe9GKwDA==",
+      "path": "microsoft.entityframeworkcore.abstractions/8.0.14",
+      "hashPath": "microsoft.entityframeworkcore.abstractions.8.0.14.nupkg.sha512"
+    },
+    "Microsoft.EntityFrameworkCore.InMemory/8.0.14": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-q0/yGN42dy/ph9tV1ecuvrzpfkGuGdjyfdWNSXylQ0CDUidBCG6o+srOyOPg32gbjV0nLRv9YFkrS4xprXwAew==",
+      "path": "microsoft.entityframeworkcore.inmemory/8.0.14",
+      "hashPath": "microsoft.entityframeworkcore.inmemory.8.0.14.nupkg.sha512"
+    },
+    "Microsoft.OpenApi/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-GGYLfzV/G/ct80OZ45JxnWP7NvMX1BCugn/lX7TH5o0lcVaviavsLMTxmFV2AybXWjbi3h6FF1vgZiTK6PXndw==",
+      "path": "microsoft.openapi/2.0.0",
+      "hashPath": "microsoft.openapi.2.0.0.nupkg.sha512"
+    },
+    "ECommerce.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ECommerce.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ECommerce.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
