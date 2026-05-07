@@ -6,7 +6,6 @@ C:\Tomas\Projects\e-commerce-integration\ECommerce\ECommerce.API\bin\Debug\net10
 C:\Tomas\Projects\e-commerce-integration\ECommerce\ECommerce.API\bin\Debug\net10.0\ECommerce.API.runtimeconfig.json
 C:\Tomas\Projects\e-commerce-integration\ECommerce\ECommerce.API\bin\Debug\net10.0\ECommerce.API.dll
 C:\Tomas\Projects\e-commerce-integration\ECommerce\ECommerce.API\bin\Debug\net10.0\ECommerce.API.pdb
-C:\Tomas\Projects\e-commerce-integration\ECommerce\ECommerce.API\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
 C:\Tomas\Projects\e-commerce-integration\ECommerce\ECommerce.API\bin\Debug\net10.0\Microsoft.OpenApi.dll
 C:\Tomas\Projects\e-commerce-integration\ECommerce\ECommerce.API\obj\Debug\net10.0\ECommerce.API.csproj.AssemblyReference.cache
 C:\Tomas\Projects\e-commerce-integration\ECommerce\ECommerce.API\obj\Debug\net10.0\rpswa.dswa.cache.json
@@ -44,3 +43,10 @@ C:\Tomas\Projects\e-commerce-integration\ECommerce\ECommerce.API\bin\Debug\net10
 C:\Tomas\Projects\e-commerce-integration\ECommerce\ECommerce.API\bin\Debug\net10.0\ECommerce.Application.pdb
 C:\Tomas\Projects\e-commerce-integration\ECommerce\ECommerce.API\bin\Debug\net10.0\ECommerce.Infrastructure.pdb
 C:\Tomas\Projects\e-commerce-integration\ECommerce\ECommerce.API\bin\Debug\net10.0\ECommerce.Domain.pdb
+C:\Tomas\Projects\e-commerce-integration\ECommerce\ECommerce.API\bin\Debug\net10.0\Microsoft.Extensions.Http.Polly.dll
+C:\Tomas\Projects\e-commerce-integration\ECommerce\ECommerce.API\bin\Debug\net10.0\Polly.dll
+C:\Tomas\Projects\e-commerce-integration\ECommerce\ECommerce.API\bin\Debug\net10.0\Polly.Core.dll
+C:\Tomas\Projects\e-commerce-integration\ECommerce\ECommerce.API\bin\Debug\net10.0\Polly.Extensions.Http.dll
+C:\Tomas\Projects\e-commerce-integration\ECommerce\ECommerce.API\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Tomas\Projects\e-commerce-integration\ECommerce\ECommerce.API\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Tomas\Projects\e-commerce-integration\ECommerce\ECommerce.API\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll

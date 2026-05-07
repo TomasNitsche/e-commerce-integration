@@ -14,3 +14,5 @@ C:\Tomas\Projects\e-commerce-integration\ECommerce\ECommerce.Infrastructure\obj\
 C:\Tomas\Projects\e-commerce-integration\ECommerce\ECommerce.Infrastructure\obj\Debug\net10.0\refint\ECommerce.Infrastructure.dll
 C:\Tomas\Projects\e-commerce-integration\ECommerce\ECommerce.Infrastructure\obj\Debug\net10.0\ECommerce.Infrastructure.pdb
 C:\Tomas\Projects\e-commerce-integration\ECommerce\ECommerce.Infrastructure\obj\Debug\net10.0\ref\ECommerce.Infrastructure.dll
+C:\Tomas\Projects\e-commerce-integration\ECommerce\ECommerce.Infrastructure\bin\Debug\net10.0\ECommerce.Application.dll
+C:\Tomas\Projects\e-commerce-integration\ECommerce\ECommerce.Infrastructure\bin\Debug\net10.0\ECommerce.Application.pdb
