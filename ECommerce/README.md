@@ -77,3 +77,20 @@ Failure scenarios and handling
 3) Downstream inconsistency (price and stock return conflicting data)
    - Handling: service returns current best-effort aggregation and logs discrepancies. In production we would implement reconciliation processes and event-driven updates.
 
+## Agents folder (design / implementation / testing templates)
+
+This repository contains an `agents/` folder with role descriptions and templates to coordinate feature work:
+
+- `agents/ARCHITECT.md` — Architect role and design template (high-level design, constraints, acceptance criteria).
+- `agents/DEVELOPER.md` — Developer guidelines and PR checklist.
+- `agents/TESTER.md` — Tester responsibilities and test-plan template.
+- `agents/FEATURE_TEMPLATE.md` — Copyable issue template to start new feature requests.
+
+Quick workflow
+1. Create a new issue with the `feature` label and paste `agents/FEATURE_TEMPLATE.md` into the issue body.
+2. Architect fills the design and acceptance criteria (see `agents/ARCHITECT.md`) and requests review.
+3. After approval, Developer implements the feature following `agents/DEVELOPER.md` and opens a PR.
+4. Tester prepares a test plan (see `agents/TESTER.md`) and validates the PR before merge.
+
+Keeping templates up-to-date
+- To change templates, edit the files in `agents/` and open a PR describing the change.
