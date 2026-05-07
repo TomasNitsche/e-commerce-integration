@@ -1,3 +1,3 @@
 ﻿namespace ECommerce.API.DTO;
 
-public record PriceDto();
+public record PriceDto(decimal Amount, string Currency);

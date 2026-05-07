@@ -1,0 +1,7 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b47daf90_002Df047_002D4bed_002D8c3f_002D261b64574c9d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GetProduct_ReturnsNull_WhenProductNotFound" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::AC6FC9B1-5343-4096-896A-DC6FE63849DB::net10.0::ECommerce.Tests.ProductServiceTests.GetProduct_ReturnsNull_WhenProductNotFound&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::AC6FC9B1-5343-4096-896A-DC6FE63849DB::net10.0::ECommerce.Tests.ProductServiceTests.GetProduct_ReturnsAggregatedDto_WhenDownStreamsOk&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
